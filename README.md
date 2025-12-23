@@ -20,7 +20,8 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **CIRCUIT DAIGRAM:**
 
-![EXP 3 DAIGRAM](https://github.com/user-attachments/assets/26ccd8f3-430e-4045-a08e-a49b26d2fceb)
+![3 dai](https://github.com/user-attachments/assets/b2765293-a0e2-4ccc-97a5-d11dd71dacd5)
+
 
 **TABULAR COLUMN:**
 
@@ -28,11 +29,10 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **CALCULATION:**
 
-![EXP 3 CAL 1](https://github.com/user-attachments/assets/7fe2915a-d42f-46f0-b816-606a7915e062)
-
-![EXP 3 CAL 2](https://github.com/user-attachments/assets/3b12e1ae-67cc-45b2-9244-469a3a75b5c4)
+![3 cal 1](https://github.com/user-attachments/assets/188e9f27-0958-4f5b-950c-4f8e27aae71a)
 
 
+![3 cal 2](https://github.com/user-attachments/assets/5fd916d7-b51d-48f9-9e0b-a57ec6ebb55d)
 
 
 
@@ -52,7 +52,7 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-   ![EXP 3 MARK](https://github.com/user-attachments/assets/1776bb21-48ba-432c-a897-ea07c93290e8)
+![3 ms](https://github.com/user-attachments/assets/fe2a1987-ebd1-4420-909d-a4058ae40916)
 
 
 **RESULT:**
